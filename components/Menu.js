@@ -30,4 +30,5 @@ let menuItems = [
   Step 5: return your div with a 'menu' class.
 
   Step 6: Use 'menuMaker' to create a menu using the 'menuItems' array, and append the returned menu to the header.
-*/
+  Test
+  */
